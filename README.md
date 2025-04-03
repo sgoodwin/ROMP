@@ -14,6 +14,14 @@ ROMP has read-only access to your music, enforced by the OS itself. It does not 
 
 ROMP has been tested with ogg-vorbis, MP3, M4A and FLAC files. Support for Opus and Ape files coming soon.
 
+# Live-monitoring Folders
+
+Folders of music you add to ROMP are monitored, so any new music added to those folders will automatically be picked up by the app.
+
+# Removable Media
+
+Part of your music library can be on a removable drive or a network-accessed directory. If they are disconnected when you open ROMP, it will remove those tracks from the playable list, but soon as the volume is reconnected, ROMP will see that and add the tracks from this drive back.
+
 # Requests and Bugs
 The Issues section of this project is public, so feel free to open an issue for problems you find.
 
