@@ -3,7 +3,8 @@ This is the public beta for the read-only music player for Mac, ROMP.
 
 As this is a beta, you may find things don't always work as expected, but I'll be continuing efforts to make ROMP into a nice player. 
 
-[Direct Download Link](https://github.com/sgoodwin/ROMP/releases/download/v1.0/ROMP.zip)
+[Direct Download Link](https://github.com/sgoodwin/ROMP/releases/download/v1.1/ROMP.zip)
+
 
 (Since this is brand new, I haven't setup auto-updating, so you'll need to check back here for new releases later.)
 
